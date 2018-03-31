@@ -1,0 +1,2 @@
+class Mau < ApplicationRecord
+end
